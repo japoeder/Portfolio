@@ -49,7 +49,7 @@ In this project I have used survival analysis to study how the likelihood of the
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/groceries.jpeg"> **[Instacart Market Basket Analysis](https://github.com/japoeder/Instacart-Market-Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/groceries.jpeg"> **[Basket Analysis](https://github.com/japoeder/Basket-Analysis)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
