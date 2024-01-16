@@ -36,7 +36,7 @@ In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engi
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/windmills.jpg"> **[Wind Turbine Power Curve Estimation](https://github.com/japoeder/Wind-Turbine-Power-Curve-Estimation)**
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/windmills.jpg"> **[Windmill Power Curves](https://github.com/japoeder/Windmill-Power-Curves)**
 
 In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.
 
