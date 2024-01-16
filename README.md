@@ -14,7 +14,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/telecommunication.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/japoeder/Customer-Survival-Analysis-and-Churn-Prediction)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku.
 
 #
 
