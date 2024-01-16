@@ -24,7 +24,7 @@ Objective of this project is to identify the in-control data points and eliminat
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/newspapers.jpg"> **[News-Recommendation-Engine](https://github.com/japoeder/News-Recommendation-Engine)**
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/newspapers.jpg"> **[News Recommendation Engine](https://github.com/japoeder/News-Recommendation-Engine)**
  
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
