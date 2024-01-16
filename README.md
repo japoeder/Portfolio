@@ -1,5 +1,5 @@
 # Data Science Portfolio - Jonathan Poeder
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This Portfolio is a compilation of all the AI/ML data science projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 - **Email**: [japoeder@gmail.com](japoeder@gmail.com)
 - **LinkedIn**: [linkedin.com/in/jonathanpoeder](https://www.linkedin.com/in/jonathanpoeder/)
