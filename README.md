@@ -30,7 +30,7 @@ A hybrid-filtering personalized news articles recommendation system which can su
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/airplane.jpeg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/japoeder/Predictive-Maintenance-of-Aircraft-Engine)**
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/airplane.jpg"> **[Predictive Maintenance of Aircraft Engine](https://github.com/japoeder/Predictive-Maintenance-of-Aircraft-Engine)**
 
 In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.
 
@@ -48,7 +48,7 @@ Objective of this project is to identify the in-control data points and eliminat
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpg"> **[What's the GDP of India?](https://github.com/japoeder/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpeg"> **[What's the GDP of India?](https://github.com/japoeder/Predicting-GDP-of-India)**
 
 Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
 
