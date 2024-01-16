@@ -55,7 +55,7 @@ The objective of this project is to analyze the 3 million grocery orders from mo
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpeg"> **[What's the GDP of India?](https://github.com/japoeder/Predicting-GDP-of-India)**
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpeg"> **[Predicting GDP](https://github.com/japoeder/GDP-Prediction)**
 
 Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.
 
