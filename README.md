@@ -18,7 +18,7 @@ In this project I applied various classification models such as Logistic Regress
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/phase1.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/japoeder/Multivariate-Phase-1-Analysis)** 
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/manufacturing.jpg"> **[Multivariate Phase 1 Analysis](https://github.com/japoeder/Multivariate-Phase-1-Analysis)** 
 
 Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.
 
