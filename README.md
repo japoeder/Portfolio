@@ -39,6 +39,7 @@ This project applies various classification models such as Logistic Regression, 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/airplane.jpg"> **[Predictive Maintenance Model](https://github.com/japoeder/Predictive-Maintenance-Model)**
+
 🛠️ Under construction!
 <br>
 <br>
@@ -48,6 +49,7 @@ This project applies various classification models such as Logistic Regression, 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/windmills.jpg"> **[Windmill Power Curves](https://github.com/japoeder/Windmill-Power-Curves)**
+
 🛠️ Under construction!
 <br>
 <br>
@@ -57,6 +59,7 @@ This project applies various classification models such as Logistic Regression, 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/customer_churn.jpg"> **[Customer Churn Prediction](https://github.com/japoeder/Customer-Churn-Prediction)**
+
 🛠️ Under construction!
 <br>
 <br>
@@ -67,6 +70,7 @@ This project applies various classification models such as Logistic Regression, 
 
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/groceries.jpeg"> **[Basket Analysis](https://github.com/japoeder/Basket-Analysis)**
+
 🛠️ Under construction!
 <br>
 <br>
@@ -76,7 +80,8 @@ This project applies various classification models such as Logistic Regression, 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpeg"> **[Predicting GDP](https://github.com/japoeder/GDP-Prediction)**
-🛠️ Under construction!
+
+️ Under construction!
 <br>
 <br>
 <br>
