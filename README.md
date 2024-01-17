@@ -14,7 +14,7 @@ This portfolio is a compilation of all the AI/ML data science projects I have do
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/loanapp.jpg"> **[Origination Model (Credit Risk)](https://github.com/japoeder/Origination-Model-Project)** 
 
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat imbalanced data and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+This project applies various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat imbalanced data and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 
 #
 
@@ -68,12 +68,18 @@ In this project I applied various classification models such as Logistic Regress
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/groceries.jpeg"> **[Basket Analysis](https://github.com/japoeder/Basket-Analysis)**
 🛠️ Under construction!
+<br>
+<br>
+<br>
 <!--The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.-->
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpeg"> **[Predicting GDP](https://github.com/japoeder/GDP-Prediction)**
 🛠️ Under construction!
+<br>
+<br>
+<br>
 <!--Objective of this project is to perform predictive assesment on the GDP of India through an inferential analysis of various socio-economic factors. Various models are compared and Stepwise Regression model is implemented which resulted in 5.7% Test MSE.-->
 
 #
