@@ -26,7 +26,8 @@ In this project I applied various classification models such as Logistic Regress
 #
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/newspapers.jpg"> **[News Recommendation Engine](https://github.com/japoeder/News-Recommendation-Engine)**
- 🛠️ Under construction!
+ 
+🛠️ Under construction!
 <!--A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).-->
 
 #
