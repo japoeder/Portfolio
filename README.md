@@ -87,7 +87,7 @@ This project applies various classification models such as Logistic Regression, 
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpeg"> **[Predicting GDP](https://github.com/japoeder/GDP-Prediction)**
 
-️ Under construction!
+🛠️ Under construction!
 <br>
 <br>
 <br>
@@ -97,6 +97,8 @@ This project applies various classification models such as Logistic Regression, 
 #
 
 ## Micro Projects
+
+🛠️ Under construction!
 <!--
 - ### Statistics and Machine Learning
     - [Genetic Algorithm](https://github.com/archd3sai/Statistical-Methods/blob/master/genetic-algorithm.ipynb) : In this file, I have implemented simple genetic algorithm that finds out the list of numbers which equal to any specified number when summed together.
