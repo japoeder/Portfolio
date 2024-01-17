@@ -24,6 +24,7 @@ This project applies various classification models such as Logistic Regression, 
 <br>
 <br>
 <br>
+<br>
 <!--Objective of this project is to identify the in-control data points and eliminate out of control data points to set up distribution parameters for manufacturing process monitoring. I utilized PCA for dimension reduction and Hotelling T2 and m-CUSUM control charts to established mean and variance matrices.-->
 
 #
@@ -31,6 +32,7 @@ This project applies various classification models such as Logistic Regression, 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/newspapers.jpg"> **[News Recommendation Engine](https://github.com/japoeder/News-Recommendation-Engine)**
  
 🛠️ Under construction!
+<br>
 <br>
 <br>
 <br>
@@ -44,6 +46,7 @@ This project applies various classification models such as Logistic Regression, 
 <br>
 <br>
 <br>
+<br>
 <!--In this project I have used models such as RNN, LSTM, 1D-CNN to predict the engine failure 50 cycles ahead of its time, and calculated feature importance from them using sensitivity analysis and shap values. Exponential degradation and similarity-based models are also used to calculate its remaining life.-->
 
 #
@@ -54,6 +57,7 @@ This project applies various classification models such as Logistic Regression, 
 <br>
 <br>
 <br>
+<br>
 <!--In this project, I have employed regression techniques to estimate the Power curve of an on-shore Wind turbine. Nonlinear trees based regression methods perform best as true power curve is nonlinear. XGBoost is implemented and optimized using GridSearchCV which yields lowest Test RMSE-6.404.-->
 
 #
@@ -61,6 +65,7 @@ This project applies various classification models such as Logistic Regression, 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/customer_churn.jpg"> **[Customer Churn Prediction](https://github.com/japoeder/Customer-Churn-Prediction)**
 
 🛠️ Under construction!
+<br>
 <br>
 <br>
 <br>
@@ -75,6 +80,7 @@ This project applies various classification models such as Logistic Regression, 
 <br>
 <br>
 <br>
+<br>
 <!--The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.-->
 
 #
@@ -82,6 +88,7 @@ This project applies various classification models such as Logistic Regression, 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/economy.jpeg"> **[Predicting GDP](https://github.com/japoeder/GDP-Prediction)**
 
 ️ Under construction!
+<br>
 <br>
 <br>
 <br>
