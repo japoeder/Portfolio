@@ -3,7 +3,8 @@ This portfolio is a compilation of all the AI/ML data science projects I have do
 
 - **Email**: [japoeder@gmail.com](mailto:japoeder@gmail.com)
 - **LinkedIn**: [linkedin.com/in/jonathanpoeder](https://www.linkedin.com/in/jonathanpoeder/)
-
+- **Website**: [japoeder.github.io](https://japoeder.github.io)
+- 
 <!--
 ## Achievements
 - Example 1
