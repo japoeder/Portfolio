@@ -125,13 +125,12 @@ This project applies various classification models such as Logistic Regression, 
 
 ## Certificates
 
-🛠️ Under construction!
+- [ML with scikit-learn By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/machine_learning_w_sklearn.pdf)
+- [Python Data Science Toolbox II By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/data_science_toolkit_2.pdf)
+- [Python Data Science Toolbox I By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/data_science_toolkit_1.pdf)
+- [Intermediate Python By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/intermediate_python.pdf)
+- [Introduction to Python By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/introduction_to_python.pdf)
 <!--
-- [Tableau Essential Training By Linkedin](https://github.com/archd3sai/Portfolio/blob/master/Certificates/CertificateOfCompletion_Tableau%20Essential%20Training%202020.1.pdf)
-- [Machine Learning Explainability By Kaggle](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Arch%20Desai%20-%20Machine%20Learning%20Explainability.png)
-- [Apache PySpark Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Apache%20Pyspark%20By%20Example%20(2).pdf)
-- [SQL Essential Training By Linkedin](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/CertificateOfCompletion_Sql%20Essential%20Training%202018%20(1).pdf)
-- [SQL Test By HackerRank](https://www.hackerrank.com/certificates/c0cda4c2f1b5)
 - [SQL Test By Testdome](https://www.testdome.com/cert/24cd496af7a24a8489a1fd5de791c392)
 - [Data Science Test By Testdome](https://www.testdome.com/cert/124165d7386d4f76be84c240e0547bd3)
 - [Deep Learning Specialization By deeplearning.ai](https://github.com/archd3sai/Data-Science-Portfolio-Arch-Desai/blob/master/Certificates/Deep%20Learning%20Specialization.pdf)
