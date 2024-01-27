@@ -1,0 +1,34 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+scikit-learn = "*"
+lightgbm = "*"
+tensorflow-datasets = "*"
+ipykernel = "*"
+tensorflow-metal = "*"
+h5py = "*"
+tensorflow-macos = "*"
+matplotlib = "*"
+numpy = "*"
+pandas = "*"
+scipy = "*"
+seaborn = "*"
+xgboost = "*"
+docx2txt = "*"
+openai = "*"
+docx = "*"
+openpyxl = "*"
+jupyter = "*"
+jupyterlab = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
+python_full_version = "3.10.13"
