@@ -125,6 +125,7 @@ This project applies various classification models such as Logistic Regression, 
 
 ## Certificates
 
+- [Introduction to Deep Learning with PyTorch By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/intro_to_DL_w_pytorch.pdf)
 - [Introduction to Natural Language Processing By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/intro_to_nlp.pdf)
 - [ML with scikit-learn By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/machine_learning_w_sklearn.pdf)
 - [Python Data Science Toolbox II By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/data_science_toolkit_2.pdf)
