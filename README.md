@@ -30,6 +30,14 @@ This Instacart basket analysis is focused on understanding customer purchasing p
 ## Micro Projects
 
 - [Luhn's Algorithm](https://github.com/japoeder/micro_projects/tree/master/luhns_algorithm)
+- [The Dining Philosopher](https://github.com/japoeder/micro_projects/tree/master/dining_philosopher)
+- [Cryptography: Hill Cipher](https://github.com/japoeder/micro_projects/tree/master/hill_cipher)
+- [Cryptography: Shift Cipher](https://github.com/japoeder/micro_projects/tree/master/shift_cipher)
+- [LFSR Image Encryption](https://github.com/japoeder/micro_projects/tree/master/lfsr_image_encryption)
+- [MaxFlow Playoff Problem](https://github.com/japoeder/micro_projects/tree/master/maxflow_graph)
+- [n-Body Simulation](https://github.com/japoeder/micro_projects/tree/master/n_body_simulation)
+- [Pascal's Triangle](https://github.com/japoeder/micro_projects/tree/master/pascals_triangle)
+- [Quantum Computing](https://github.com/japoeder/micro_projects/tree/master/quantum_comp)
 
 ## Core Competencies
 
