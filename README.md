@@ -29,7 +29,7 @@ This Instacart basket analysis is focused on understanding customer purchasing p
 
 ## Micro Projects
 
-🛠️ Under construction!
+- [Luhn's Algorithm](https://github.com/japoeder/micro_projects/tree/master/luhns_algorithm)
 
 ## Core Competencies
 
