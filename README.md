@@ -16,7 +16,7 @@ This portfolio is a compilation of all the AI/ML data science projects I have do
 
 <img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/loanapp.jpg"> **[Origination Model (Credit Risk)](https://github.com/japoeder/Origination-Model-Project)** 
 
-This project applies various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to handle imbalanced data and LightGBM is implemented results in the highest accuracy 98.89% and 0.99 F1 Score.
+This project applies various classification models such as Logistic Regression (pytorch & sklearn), Random Forest, and XGBoost to solve an import origination problem in the credit risk space. The models for the most part have comparable accuracy metrics aside from xgboost, which may perform better with some additional fine tuning.
 
 #
 
