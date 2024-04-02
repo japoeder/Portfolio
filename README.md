@@ -21,7 +21,7 @@ This project applies various classification models such as Logistic Regression (
 #
 
 
-<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/groceries.jpeg"> **[Basket Analysis](https://github.com/japoeder/Basket-Analysis)**
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/groceries.jpeg"> **[Basket Analysis (Retail Analytics)](https://github.com/japoeder/Basket-Analysis)**
 
 This Instacart basket analysis is focused on understanding customer purchasing patterns using a dataset containing 3 million grocery orders from over 200,000 Instacart users. The files encompasse a variety of data on order details, product information, and the order in which products were added to the cart.
 
