@@ -29,6 +29,7 @@ This Instacart basket analysis is focused on understanding customer purchasing p
 
 ## Micro Projects
 
+#### JHU
 - [Luhn's Algorithm](https://github.com/japoeder/micro_projects/tree/master/luhns_algorithm)
 - [The Dining Philosopher](https://github.com/japoeder/micro_projects/tree/master/dining_philosopher)
 - [Cryptography: Hill Cipher](https://github.com/japoeder/micro_projects/tree/master/hill_cipher)
@@ -38,6 +39,13 @@ This Instacart basket analysis is focused on understanding customer purchasing p
 - [n-Body Simulation](https://github.com/japoeder/micro_projects/tree/master/n_body_simulation)
 - [Pascal's Triangle](https://github.com/japoeder/micro_projects/tree/master/pascals_triangle)
 - [Quantum Computing](https://github.com/japoeder/micro_projects/tree/master/quantum_comp)
+
+#### UT Austin
+
+- [Card Services Attrition Study](https://github.com/japoeder/micro_projects/tree/master/cc_churn)
+- [Bank Customer Churn](https://github.com/japoeder/micro_projects/tree/master/bank_churn)
+- [Image Classification w/ CNNs](https://github.com/japoeder/micro_projects/tree/master/plant_seed_cv)
+- [Twitter Airline Sentiment Analysis](https://github.com/japoeder/micro_projects/tree/master/twitter_airline)
 
 ## Core Competencies
 
