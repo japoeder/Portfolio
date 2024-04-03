@@ -29,7 +29,7 @@ This Instacart basket analysis is focused on understanding customer purchasing p
 
 ## Micro Projects
 
-#### JHU
+#### Johns Hopkins
 - [Luhn's Algorithm](https://github.com/japoeder/micro_projects/tree/master/luhns_algorithm)
 - [The Dining Philosopher](https://github.com/japoeder/micro_projects/tree/master/dining_philosopher)
 - [Cryptography: Hill Cipher](https://github.com/japoeder/micro_projects/tree/master/hill_cipher)
