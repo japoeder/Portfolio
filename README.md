@@ -55,6 +55,7 @@ This Instacart basket analysis is focused on understanding customer purchasing p
 
 ## Certificates
 
+- [MLOps Concepts](https://github.com/japoeder/Portfolio/blob/master/Certificates/mlops_concepts.pdf)
 - [Introduction to Deep Learning with PyTorch By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/intro_to_DL_w_pytorch.pdf)
 - [Introduction to Natural Language Processing By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/intro_to_nlp.pdf)
 - [ML with scikit-learn By datacamp](https://github.com/japoeder/Portfolio/blob/master/Certificates/machine_learning_w_sklearn.pdf)
