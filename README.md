@@ -27,6 +27,12 @@ This Instacart basket analysis is focused on understanding customer purchasing p
 
 #
 
+<img align="left" width="250" height="150" src="https://github.com/japoeder/Portfolio/blob/master/Images/slack_plus_aws.png"> **[Slack alerting for AWS](https://github.com/japoeder/collectability_cost_tracking)**
+
+It's really easy for AWS costs to slip under the radar and accrue to unexpected amounts.  While Amazon does provide some functionality with their cost explorer meant to address that, it is not as flexible in how the data can be aggregated and it isn't integrated with Slack as far as I'm aware.  This project addresses that.
+
+#
+
 ## Micro Projects
 
 #### Johns Hopkins
